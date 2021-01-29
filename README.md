@@ -23,8 +23,8 @@ JavaScript 학습을 좀 더 재미있고 기억에 남게 하기 위해서 테�
 - [x]  Text formatting
 - [ ]  Regular Expressions(추후 학습 예정)
 - [x]  Indexed collections
-- [ ]  Keyed collections
-- [ ]  Working with objects
+- [x]  Keyed collections
+- [x]  Working with objects
 - [ ]  Details of the object model
 - [ ]  Promises
 - [ ]  Iterators and generators
